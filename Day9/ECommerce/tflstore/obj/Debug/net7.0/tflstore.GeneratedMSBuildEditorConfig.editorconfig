@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tflstore
+build_property.RootNamespace = tflstore
+build_property.ProjectDir = E:\chaitanya_prashant\.Net\lab_dotnet\Day9\ECommerce\tflstore\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\chaitanya_prashant\.Net\lab_dotnet\Day9\ECommerce\tflstore
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Auth/RegDone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdEb25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Home/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Home/Contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Players/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/chaitanya_prashant/.Net/lab_dotnet/Day9/ECommerce/tflstore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-41dg28fsc4
