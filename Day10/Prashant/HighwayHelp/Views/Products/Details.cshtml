@@ -1,0 +1,17 @@
+﻿@using BOL;
+
+@{
+    ViewData["Title"] = "Details Page";
+}
+<h1>@ViewData["Title"]</h1>
+
+@{
+
+Hospital hs=(Hospital)ViewData["hospital"];
+<p>@hs.Id</p>
+<p>@hs.Name</p>
+<p>@hs.Email</p>
+<p>@hs.Pin</p>
+
+
+}
