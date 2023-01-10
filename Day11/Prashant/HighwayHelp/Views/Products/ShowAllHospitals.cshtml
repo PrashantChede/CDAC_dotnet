@@ -1,0 +1,25 @@
+﻿@using BOL;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "All Hospitals";
+}
+
+<!-- <div class="text-center"> -->
+<div>
+@{
+List<Hospital> allHospitals=(List<Hospital>)ViewData["hospitals"];
+    <table cellpadding="10px" border="2px">
+@foreach(Hospital h in allHospitals)
+{
+    @* <ol>
+    <p><a href="/Products/Details/@h.Id">@h.Name</a></p>
+    </ol> *@
+
+    <tr><td>@h.Id</td><td><a href="/Products/Details/@h.Id">@h.Name</a></td><td>@h.Email</td><td>@h.Pin</td></tr>
+    
+}
+</table>
+//Console.WriteLine("inside index");
+}
+   
+</div>

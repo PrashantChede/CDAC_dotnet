@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\HighwayHelp\\HighwayHelp.csproj": {}
+  },
+  "projects": {
+    "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj": {
+                "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj"
+              },
+              "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj": {
+                "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj",
+        "projectName": "DLL",
+        "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj": {
+                "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\HighwayHelp\\HighwayHelp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\HighwayHelp\\HighwayHelp.csproj",
+        "projectName": "HighwayHelp",
+        "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\HighwayHelp\\HighwayHelp.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\HighwayHelp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj": {
+                "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj"
+              },
+              "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj": {
+                "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj"
+              },
+              "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj": {
+                "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
