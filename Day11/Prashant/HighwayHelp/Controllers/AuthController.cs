@@ -51,7 +51,7 @@ public class AuthController : Controller
 
             return Redirect("WelcomeAdmin");
         }
-         return View();
+         return RedirectToAction("Login");
 
     } 
 

@@ -928,42 +928,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dac\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PRASHNT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj",
+      "projectUniqueName": "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\BLL.csproj",
-      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-      "outputPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BLL\\obj\\",
+      "projectPath": "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\BLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\PRASHNT\\.nuget\\packages\\",
+      "outputPath": "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\BLL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\PRASHNT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj": {
-              "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\BOL\\BOL.csproj"
+            "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\BOL\\BOL.csproj": {
+              "projectPath": "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\BOL\\BOL.csproj"
             },
-            "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj": {
-              "projectPath": "E:\\chaitanya_prashant\\.Net\\lab_dotnet\\CDAC_dotnet\\Day10\\Prashant\\DLL\\DLL.csproj"
+            "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\DLL\\DLL.csproj": {
+              "projectPath": "E:\\CDAC_2022_sep\\.NET\\Practice\\CDAC_dotnet\\Day11\\Prashant\\DLL\\DLL.csproj"
             }
           }
         }

@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "New Hopital Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<div class="text-center">
+ <form  action="/Products/InsertHopital">
+  <!-- <label for="id">Id :</label><br>
+  <input type="number" id="id" name="id" value="" required><br> -->
+  
+  <label for="name">Name :</label><br>
+  <input type="text" id="name" name="name" ><br><br>
+
+  <label for="email">Email :</label><br>
+  <input type="email" id="email" name="email" value="" required><br>
+  
+  <label for="pin">Pin :</label><br>
+  <input type="text" id="pin" name="pin" ><br><br>
+  
+  <input type="submit" value="Submit">
+</form> 
+
+<br/>
+<form action="/Products/ShowAllHospitals">
+    <button type="submit" name="back" id="back">Back</button>
+</form>
+</div>

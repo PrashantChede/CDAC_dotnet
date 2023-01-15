@@ -43,16 +43,36 @@ public class ProductsController : Controller
     }
 
 
+    public IActionResult InsertFormofHospital()
+    {
+        return View();
+    }
 
-    // public IActionResult Details(int id)
-    // {
-    //     Console.WriteLine("inside controllers Deatils");
-    //      HelpManager hm=new HelpManager();
-    //      Hospital hospital=hm.GetHospital(id);
-    //      this.ViewData["hospital"]=hospital;
-    //      return View();
 
-    // } 
+      public IActionResult InsertHopital(string name, string email, string pin)
+    {
+       // Console.WriteLine("inside controllers Deatils");
+       
+         HelpManager hm=new HelpManager();
+         if(hm.InsertHospital(name,email,pin))
+         {
+        return RedirectToAction("ShowAllHospitals"); // still not modified
+         }
+        // this.ViewData["hospital"]=hospital;
+         return View();
+
+    } 
+
+
+
+    public IActionResult Details(int id)
+    {
+        Console.WriteLine("inside controllers Deatils");
+         HelpManager hm=new HelpManager();
+         Hospital hospital=hm.GetHospital(id);
+         this.ViewData["hospital"]=hospital;
+         return View();
+    } 
 
 
     //  public IActionResult Insert(int id, string name, string email, string pin)
